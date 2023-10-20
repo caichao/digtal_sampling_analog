@@ -44,4 +44,15 @@ Detection in challenging case:
 
 The code is implemented using verilog HDL. It is compiled with Xilinx Vivado 2019.1. The hardware we used is Xilinx ZCU104, which is equipped with a 16nm Xilinx Zynq UltraScale+ **XCZU7EV-2FFVC1156** MPSoC. We use the IO from FMC to implement a system prototype. You can build and test it yourself. If you got any questions, please contact us. 
 
-
+If you find it useful, please cite our paper:
+```
+@ARTICLE{10275318,
+  author={Cai, Chao and Wang, Fei and Xie, Qingguo and Luo, Jun},
+  journal={IEEE Transactions on Industrial Electronics}, 
+  title={Peak Detector With an FPGA-Only Solution for Multichannel Ultrafast Signals}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-9},
+  doi={10.1109/TIE.2023.3319724}}
+```
